@@ -1,0 +1,16 @@
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\bin\Debug\net8.0-windows\2_задание.exe
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\bin\Debug\net8.0-windows\2_задание.deps.json
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\bin\Debug\net8.0-windows\2_задание.runtimeconfig.json
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\bin\Debug\net8.0-windows\2_задание.dll
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\bin\Debug\net8.0-windows\2_задание.pdb
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\_2_задание.Form1.resources
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\2_задание.csproj.GenerateResource.cache
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\2_задание.GeneratedMSBuildEditorConfig.editorconfig
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\2_задание.AssemblyInfoInputs.cache
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\2_задание.AssemblyInfo.cs
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\2_задание.csproj.CoreCompileInputs.cache
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\2_задание.dll
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\refint\2_задание.dll
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\2_задание.pdb
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\2_задание.genruntimeconfig.cache
+B:\TUSUR\ОПР\Лаба 10\2_задание\2_задание\obj\Debug\net8.0-windows\ref\2_задание.dll
