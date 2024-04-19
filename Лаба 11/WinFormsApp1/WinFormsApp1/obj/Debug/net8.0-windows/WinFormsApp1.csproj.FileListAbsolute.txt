@@ -1,0 +1,16 @@
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+B:\TUSUR\ОПР\Лаба 11\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Task1.resources

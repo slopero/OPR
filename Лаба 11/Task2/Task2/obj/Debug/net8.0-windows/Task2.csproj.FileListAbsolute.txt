@@ -1,0 +1,16 @@
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\bin\Debug\net8.0-windows\Task2.exe
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\bin\Debug\net8.0-windows\Task2.deps.json
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\bin\Debug\net8.0-windows\Task2.runtimeconfig.json
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\bin\Debug\net8.0-windows\Task2.dll
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\bin\Debug\net8.0-windows\Task2.pdb
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.Form1.resources
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.csproj.GenerateResource.cache
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.GeneratedMSBuildEditorConfig.editorconfig
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.AssemblyInfoInputs.cache
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.AssemblyInfo.cs
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.csproj.CoreCompileInputs.cache
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.dll
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\refint\Task2.dll
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.pdb
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\Task2.genruntimeconfig.cache
+B:\TUSUR\ОПР\Лаба 11\Task2\Task2\obj\Debug\net8.0-windows\ref\Task2.dll
